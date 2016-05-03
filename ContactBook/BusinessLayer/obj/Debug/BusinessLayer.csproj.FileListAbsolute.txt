@@ -1,0 +1,7 @@
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\ContactBook\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\ContactBook\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\ContactBook\BusinessLayer\bin\Debug\DAO.dll
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\ContactBook\BusinessLayer\bin\Debug\DAO.pdb
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\ContactBook\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\ContactBook\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Swornim Nepal\documents\visual studio 2012\Projects\ContactBook\BusinessLayer\obj\Debug\BusinessLayer.pdb
